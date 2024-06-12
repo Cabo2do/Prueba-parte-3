@@ -1,0 +1,69 @@
+body {
+    background-image: url('../img/bg-ash-bici.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.pikachu img {
+    margin-top: 50px;
+}
+
+.pikachu-body img{
+    height: 500px;
+    width: auto;
+}
+
+.pikachu-mouth img{
+    height: 50px;
+    width: auto;
+    position: absolute;
+    top: 250px;
+    left: 130px;
+}
+
+.pikachu-eye1 img{
+    height: 40px;
+    width: auto;
+    position: absolute;
+    top: 230px;
+    left: 118px;
+}
+
+.pikachu-eye2 img{
+    height: 40px;
+    width: auto;
+    position: absolute;
+    top: 230px;
+    left: 180px;
+}
+
+.pikachu-arm1 img{
+    height: 100px;
+    width: auto;
+    position: absolute;
+    top: 350px;
+    left: 85px;
+}
+
+.pikachu-arm2 img{
+    height: 100px;
+    width: auto;
+    position: absolute;
+    top: 350px;
+    left: 190px;
+}
+
+.pikachu-tail img {
+    height: 200px;
+    width: auto;
+    position: absolute;
+    top: 250px;
+    left: 240px;
+}
+
+.pikachu-arm1, .pikachu-arm2 {
+    transform-origin: center; 
+}
+
+
